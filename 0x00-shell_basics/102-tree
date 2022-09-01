@@ -1,2 +1,2 @@
 #!/bin/bash
-vi welcome/to/school/test
+mkdir -p welcome/to/school
